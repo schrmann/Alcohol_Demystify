@@ -1,0 +1,14 @@
+body {
+position: relative;
+
+display: flex;
+flex-direction: column;
+max-width: 1920px;
+min-width: 300px;
+margin: 0 auto;
+padding: 0;
+background-color: black;
+height:100vh ;    
+    
+  overflow: hidden; 
+}
